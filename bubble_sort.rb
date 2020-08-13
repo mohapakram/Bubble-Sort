@@ -23,7 +23,7 @@ def bubble_sort_by(arr)
     arr.each_with_index do |n, i|
       break if arr[i + 1].nil?
       diff = yield(n, arr[i + 1])
-      if diff > 0
+      if diff.positive?
         arr[i] = arr[i + 1]
         arr[i + 1] = n
       end
