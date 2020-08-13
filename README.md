@@ -2,21 +2,24 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+One paragraph statement about the project.
+
+- Advanced Building Blocks - Implementation of the bubble sort algorithm.
 
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
+- The project invovled the use of loop and yield.
+
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby
+
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/mohapakram/Bubble-Sort/1797464c4c8f900beddb48412c5ffd1b55fcb61f/bubble_sort.rb)
 
 
 ## Getting Started
@@ -24,6 +27,10 @@ Additional description about the project and its features.
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+
+- Clone this repository
+- cd into repository directory
+- run ruby bubble_sort.rb
 
 To get a local copy up and running follow these simple example steps.
 
@@ -45,15 +52,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: @mohabakram
+- Twitter: @mohapakram
+- Linkedin: mohabakram
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@GraceOyiza](https://github.com/GraceOyiza)
+- Twitter: [@_PopsonGrace](https://twitter.com/_PopsonGrace)
+- LinkedIn: [@grace](https://www.linkedin.com/in/grace-popoola-657a181aa/)
 
 ## 🤝 Contributing
 
