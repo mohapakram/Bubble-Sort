@@ -1,14 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bubble Sort
 
-One paragraph statement about the project.
-
-- Advanced Building Blocks - Implementation of the bubble sort algorithm.
-
-Additional description about the project and its features.
-
-- The project invovled the use of loop and yield.
+In this project, the you will implement the bubble sort algorithm. Assignment is focused on the use of yield and passing a block to a method.
 
 ## Built With
 
