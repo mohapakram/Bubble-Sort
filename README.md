@@ -27,7 +27,7 @@ This Assignment is focused on the use of yield and passing a block to a method.
 
 - Github: [@GraceOyiza](https://github.com/GraceOyiza)
 - Twitter: [@_PopsonGrace](https://twitter.com/_PopsonGrace)
-- LinkedIn: [@grace](https://www.linkedin.com/in/grace-popoola-657a181aa/)
+- LinkedIn: [@grace](https://www.linkedin.com/in/grace-popoola)
 
 ## 🤝 Contributing
 
